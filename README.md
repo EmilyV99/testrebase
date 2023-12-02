@@ -1,4 +1,6 @@
-# testrebase
+# Stupid Test Rebase
+A stupid test
+with stupid text
 
 ## Stupid Test Repo
 This is a readme just to test rebasing
