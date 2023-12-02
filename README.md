@@ -1,7 +1,7 @@
 # testrebase
 
 ## Stupid Test Repo
-This is a readme just to test rebasing
+This is a `README.md` of a repo just to test rebasing
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Sit amet risus nullam eget felis.
